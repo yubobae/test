@@ -1,2 +1,2 @@
-let newData = Date.Date();
-console.log(newData);
+let newDate = Date.Date();
+console.log(neswDatda);
